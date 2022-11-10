@@ -20,6 +20,8 @@ Cada repositório possui uma área de trabalho acoplada e as operações commit 
 
 - Em seguida fiz o Modelo do Elmasri (3.2)
 
+![Screenshot_1111](https://prnt.sc/zGv3u1gLHGQK)
+
 ---
 
 - Depois fiz as questões discursivas sobre o projeto lógico (3.3)
