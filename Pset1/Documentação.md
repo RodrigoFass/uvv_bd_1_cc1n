@@ -26,9 +26,9 @@ Cada repositório possui uma área de trabalho acoplada e as operações commit 
 
 - Depois fiz as questões discursivas sobre o projeto lógico (3.3)
 
-Q4: O primeiro erro encontrado estre essas tabelas é relacionado a tabela empregrados onde o id supervisor nao de veria ser uma FK e o segundo erro é na tabela empregados a data de contrataçao deveria ser uma FK
+Q4: O primeiro erro encontrado entre essas tabelas é relacionado a tabela empregrados onde o id supervisor nao de veria ser uma FK e o segundo erro é na tabela empregados a data de contrataçao deveria ser uma FK
 
-Q5: A tabela que realiza  o relacionamento N:N é a historico_cargos pois nao ha exclusividade no relacionamento
+Q5: Nao realiza o relacionamento N:N
 
 Q6: Teria que criar restriçoes para o projeto. Para usar essas restriçoes voce teria que utilizar uma linguagem de especificaçao de restriçoes ou utilizar triggers e Assertions com os comandos create Assertion e create Trigger no mysql
 
@@ -58,5 +58,5 @@ Q13: Nao possuo nenhuma sugestao
 
 Q14: Mysql é puramente relacional enquanto o Postgre é objeto-relacional, o postgre seria o tipo de BD mais completo enquanto o mysql seria mais simples
 
-Q15: Acho que fui bem, se n tivesse pegado covid em quanto fazia teria ficado mais completo.
+Q15: Acho que fui bem, se nao tivesse pegado covid em quanto fazia teria ficado mais completo.
 
